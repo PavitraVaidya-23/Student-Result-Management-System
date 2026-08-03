@@ -1,24 +1,39 @@
 # Student-Result-Management-System
-## Description
-A c++ mini project developed to manage student records. It allows users to add, display,search,update delete student information while automatically calculating total marks,percentage and grade.
+A simple C++ console-based project that manages student results.This project was built to practice c++ programming concepts such as functions,loops,conditional statements,array and user input/output.
 
 ## Features
 - Add student
-- Display student records
-- search student by roll number
-- update student details
-- delete student records
-- Automatic percentage calculation
-- Automatic grade calculation
-
+- Enter marks
+- calculate percentage
+- display student result
+- show pass/fail status
 ## Technologies Used
 - C++
 - Programiz Online compiler
+- standard template library
 
-## Concepts Used
-- structure
-- array
+## Concepts practiced
+- variables and data types
 - functions
 - loops
-- switch case
 - conditional statements
+- arrays
+- input/output
+- basic problem solving
+
+# How to run
+1. copy the source code.
+2. compile it using any C++ compiler or programiz
+3. Run the program and follow the on screen instructions.
+
+# Future Improvements
+- Store records in files.
+- Search student by roll number
+- Update and delete student records
+- add a menu-driven interface
+- improve input validation
+
+# Author
+Pavitra Vaidya Engineering Student | Learning C++ and Data Structures
+
+
